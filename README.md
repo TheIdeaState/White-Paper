@@ -61,3 +61,7 @@ Break the chain, the chain breaks you.
 ---
 
 ### [ACCESS FULL PROTOCOL DEFINITION (CHAPTERS 1-3 + APPENDICES)](./PROTOCOL_V1.md)
+
+---
+> **SIGNAL:** theideaartist@proton.me
+> **ENCRYPTION:** PGP Available
