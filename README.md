@@ -1008,7 +1008,7 @@ The Idea State Protocol v1.0 is a synthesis of historical diagnostics and futuri
    * **Source:** Peter Diamandis & Steven Kotler
    * **Concept:** The 6 D’s of Exponential Growth
    * **Integration:** The Idea State serves as the “Cultural Operating System” for the society that Diamandis predicted—managing the psychology of the “Rising Billion.”
-
+   
 ---
 
 # APPENDICES: OPERATIONAL ARTIFACTS
