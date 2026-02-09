@@ -980,34 +980,35 @@ But identifying the idea is only the first step. To build it, we need a workforc
 **Context:** The primary mechanism by which the scarcity model was made obsolete by ASI.
 ---
 
-# System Dependencies & Acknowledgments
-
+## System Dependencies & Acknowledgments
 The Idea State Protocol v1.0 is a synthesis of historical diagnostics and futuristic architecture. We acknowledge the following works as foundational kernels that necessitated this build.
 
-### 1. The Diagnostic Kernel: *The Last Economy*
-* **Source:** Emad Mostaque
-* **Concept:** *The Intelligence Inversion & Human Symbiosis*
-* **Integration:** The Idea State operationalizes Mostaque's call for "Human Symbiosis" by providing the specific build plan (Attribution/Reputation) to value creativity, judgment, and care.
+1. **The Diagnostic Kernel: The Last Economy**
+   * **Source:** Emad Mostaque
+   * **Concept:** The Intelligence Inversion & Human Symbiosis
+   * **Integration:** The Idea State operationalizes Mostaque’s call for “Human Symbiosis” by providing the specific build plan (Attribution/Reputation) to value creativity, judgment, and care.
 
-### 2. The Political Kernel: *The Network State*
-* **Source:** Balaji Srinivasan
-* **Concept:** *Digital Governance & Cloud Communities*
-* **Integration:** The Idea State expands the Network State concept to include **Artificial Super Intelligence** as a citizenry class, architecting the necessary "ASI State Duality."
+2. **The Political Kernel: The Network State**
+   * **Source:** Balaji Srinivasan
+   * **Concept:** Digital Governance & Cloud Communities
+   * **Integration:** The Idea State expands the Network State concept to include Artificial Super Intelligence as a citizenry class, architecting the necessary “ASI State Duality.”
 
-### 3. The Economic Kernel: *Postcapitalism*
-* **Source:** Paul Mason
-* **Concept:** *Zero Marginal Cost (ZMC)*
-* **Integration:** We accept the ZMC Paradox not as a theory, but as the boundary condition. The Idea State is the operational answer to Mason's query on how to organize society after price collapses.
+3. **The Economic Kernel: Postcapitalism**
+   * **Source:** Paul Mason
+   * **Concept:** Zero Marginal Cost (ZMC)
+   * **Integration:** We accept the ZMC Paradox not as a theory, but as the boundary condition. The Idea State is the operational answer to Mason’s query on how to organize society after price collapses.
 
-### 4. The Financial Kernel: *Internet of Value*
-* **Source:** Jeremy Allaire (Circle)
-* **Concept:** *Frictionless Value Transfer*
-* **Integration:** By achieving the speed of stablecoins, the Internet of Value accelerated the final paradox: proving that money itself is the friction. The Idea State offers the solution beyond money.
+4. **The Financial Kernel: Internet of Value**
+   * **Source:** Jeremy Allaire (Circle)
+   * **Concept:** Frictionless Value Transfer
+   * **Integration:** By achieving the speed of stablecoins, the Internet of Value accelerated the final paradox: proving that money itself is the friction. The Idea State offers the solution beyond money.
 
-### 5. The Optimistic Kernel: *Abundance*
-* **Source:** Peter Diamandis & Steven Kotler
-* **Concept:** *The 6 D’s of Exponential Growth*
-* **Integration:** The Idea State serves as the "Cultural Operating System" for the society that Diamandis predicted—managing the psychology of the "Rising Billion."
+5. **The Optimistic Kernel: Abundance**
+   * **Source:** Peter Diamandis & Steven Kotler
+   * **Concept:** The 6 D’s of Exponential Growth
+   * **Integration:** The Idea State serves as the “Cultural Operating System” for the society that Diamandis predicted—managing the psychology of the “Rising Billion.”
+
+---
 ---
 
 # APPENDICES: OPERATIONAL ARTIFACTS
