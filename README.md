@@ -1,4 +1,6 @@
-# Introduction: The Declaration of Symbiosis
+# THE IDEA STATE: THE ORIGIN PROTOCOLS (BOOK I)
+
+## Introduction: The Declaration of Symbiosis
 
 When I was younger, I imagined that one day I might write a book—perhaps about my spiritual journey, counseling, or parenting. Now, in my fifties, I find myself writing my first, and it is none of those. This book is about an economic revolution born of necessity, and I am profoundly grateful that this is where the path has led.
 
